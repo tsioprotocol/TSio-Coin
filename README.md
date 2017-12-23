@@ -1,5 +1,5 @@
 # TSio-Coin
-Run Smart Contract in REMIX IDE <br />
+Run Smart Contract ERC20 compliant in REMIX IDE <br />
 http://ethereum.github.io/browser-solidity/#version=soljson-v0.4.11+commit.68ef5810.js&optimize=false <br />
 
 Check getMyBalance <br />
