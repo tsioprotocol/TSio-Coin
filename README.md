@@ -2,6 +2,9 @@
 Run Smart Contract ERC20 compliant in REMIX IDE <br />
 http://ethereum.github.io/browser-solidity/#version=soljson-v0.4.11+commit.68ef5810.js&optimize=false <br />
 
+Upload the contact in the new tab of the IDE and Start sending and receiving Token <br />
+
+# Tabs Overview
 Check getMyBalance <br />
 Mint Token say 100; Than check getMyBalance,you should see 100 <br />
 switch to second account and copy the address and paste the address in approve with the amount (format of input = "address",value) <br />
