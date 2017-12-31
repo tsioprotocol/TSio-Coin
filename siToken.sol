@@ -64,7 +64,7 @@ contract TSioToken{
     }
     
     function mint(uint numberOfCoins){
-        balances[msg.sender] =+ numberOfCoins;
+        balances[msg.sender] += numberOfCoins;
         supply += numberOfCoins;
     }
     
